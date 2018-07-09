@@ -3,6 +3,8 @@
  * @param {Array} items
  * @returns {Array}
  */
-const removeDuplicateItems = (items) => {};
+const removeDuplicateItems = (items) => 
+
+};
 
 module.exports = removeDuplicateItems;
